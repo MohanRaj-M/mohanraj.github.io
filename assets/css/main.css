@@ -1,0 +1,27 @@
+body {
+  background:url("../images/2.png");
+  font-family: 'Titillium Web', sans-serif;
+      background-size: cover;
+}
+
+
+
+/* -----------------------------------Prosot CSS--------------------------------------------------------------------- */
+.example-form {
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+}
+
+.example-full-width {
+  width: 100%;
+}
+
+.fullpage{
+  top:0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+
+}
+

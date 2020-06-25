@@ -1,0 +1,41 @@
+.table {
+  width: 100%;
+  margin: 20px 0 0 0 !important;
+
+  //common
+  .table__body-cell,
+  .table__head-cell {
+    padding: 12px;
+    text-align: left;
+    vertical-align: middle;
+    color: #575757;
+    font-size: 12px;
+    font-weight: 400;
+  }
+
+  // header
+  .table__head {
+
+  }
+  
+  .table__head-row {
+    
+  }
+  
+  .table__head-cell {
+    background: #ebebeb;
+    border-color: #ebebeb;
+    text-transform: uppercase;
+  }
+
+  // body
+  .table__body {
+  }
+
+  .table__body-row {
+  }
+
+  .table__body-cell {
+    border-top: 1px solid #ebebeb;
+  }
+}

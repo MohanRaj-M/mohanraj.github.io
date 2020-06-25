@@ -1,0 +1,44 @@
+.flx {
+  display: flex;
+
+  &-col,
+  &-col-c {
+    flex-direction: column;
+  }
+
+  &-wrap {
+    flex-wrap: wrap;
+  }
+
+  &-c-c,
+  &-c-t,
+  &-b-c,
+  &-l-c,
+  &-b-t,
+  &-b-s {
+    display: flex;
+  }
+
+  &-c-c {
+    justify-content: center;
+  }
+
+  &-b-c,
+  &-b-t,
+  &-b-s {
+    justify-content: space-between;
+  }
+
+  &-b-t {
+    align-items: flex-start;
+    align-content: flex-start;
+  }
+
+  &-b-c,
+  &-c-c,
+  &-l-c,
+  &-col-c {
+    align-items: center;
+    align-content: center;
+  }
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="974px" height="877px" viewBox="0 0 974 877" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M692,1.40473903e-13 L949.027027,3.41060513e-13 C916.709062,131.321615 900.550079,220.677409 900.550079,268.067383 C900.550079,407.810447 974,520.328752 974,619.411477 C974,717.742327 959.175574,771.305838 940.213037,803.54722 C933.475892,815.002167 923.192903,839.486427 909.36407,877 L692,877 L0,877 L0,0 L692,0 Z" id="path-1"></path>
+        <filter x="-0.7%" y="-0.6%" width="101.4%" height="101.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="3-19-19-Login-Screens" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD">
+            <g id="Combined-Shape">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <path stroke="#FFFFFF" stroke-width="1" d="M0.5,0.5 L0.5,876.5 L909.015527,876.5 C922.793866,839.143191 933.044388,814.749568 939.782052,803.293739 C961.659423,766.096361 973.5,708.198483 973.5,619.411477 C973.5,596.548821 969.654652,571.979956 962.039331,542.489822 C958.898043,530.325264 955.157808,517.428234 950.282394,501.696119 C948.382093,495.564176 946.402167,489.290629 943.648697,480.647501 C942.892535,478.273915 940.208455,469.8616 940.237159,469.951608 C938.862653,465.641577 937.817825,462.357118 936.798372,459.138013 C924.765707,421.142733 917.474845,395.463814 911.537991,368.091477 C903.99088,333.294925 900.050079,300.636603 900.050079,268.067383 C900.050079,220.698794 916.163296,131.521576 948.389103,0.5 L0.5,0.5 Z" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="105px" viewBox="0 0 1920 105" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Curved Rectangle</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(0.000000, -190.000000)" fill="#FFFFFF">
+            <path d="M0.841149688,207.184179 L1924.51176,173.606383 L1926.03357,260.790936 C1685.70542,225.115498 1514.91385,207.277779 1413.65884,207.277779 C1115.07913,207.277779 803.732831,300.925804 592.02936,300.925804 C381.93237,300.925804 324.862535,279.902778 211.40813,260.790936 C135.771861,248.049708 63.7954101,230.211989 -4.5212208,207.277779 L0.841149688,207.184179 Z" id="Curved-Rectangle" transform="translate(960.756176, 237.266094) scale(-1, 1) rotate(1.000000) translate(-960.756176, -237.266094) "></path>
+        </g>
+    </g>
+</svg>
