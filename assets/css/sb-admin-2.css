@@ -626,12 +626,13 @@ table.dataTable thead .sorting:after {
 }
 
 .dropdown-toggle {
-    background-color: rgb(241, 86, 64);
+    /* background-color: rgb(241, 86, 64); */
 }
 
 .dropdown-toggle :hover {
-    background-color: rgb(241, 86, 64);
+    /* background-color: rgb(241, 86, 64); */
 }
+
 
 .btn-default {
     color: none !important;
@@ -709,16 +710,30 @@ table.dataTable thead .sorting:after {
 }
 
 .dropdown-menu.show a {
-    color: #fff ;
+    color: #757575 ;
+   
 }
 
 .dropdown-menu.show a:hover {
-    background-color:#ba2c2b;
+    background-color:#7cc5da;
+    color: #fff;
+   
 }
+.side-nav>li {
+    color: #757575 !important;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.side-nav>li>a:hover{
+    background-color: #7cc5da;
+    color: #fff !important;
+}
+
 
 .dropdown-menu>li>a:focus,
 .dropdown-menu>li>a:hover {
-    color: #000;
+    color: #fff;
     text-decoration: none;
     background-color: transparent;
 }
@@ -726,7 +741,7 @@ table.dataTable thead .sorting:after {
 
 
 .mpa-col {
-    padding-right: 10px;
+    padding-right: 5px;
     font-size: 20px !important;
 }
 
@@ -866,6 +881,7 @@ table.dataTable thead .sorting:after {
 .Caretakers-color3 {
     background-color: rgba(246, 247, 247, 0.5098039215686274);
     padding: 13px 21px 2px 4px;
+    
 }
 
 .Caretakers-colorMpoa {
@@ -1115,19 +1131,19 @@ table.dataTable thead .sorting:after {
 
 .pop-dele {
     color: #fff;
-    background-color: #7f4954 !important;
-    border-color: #7f4954;
+    background-color: #0894bc !important;
+    border-color: #0894bc;
     padding: 10px 40px !important;
     border-radius: 0px;
     font-size:25px;
 }
 
 .xcol2 {
-    border: 2px solid #7f4954;
+    border: 2px solid #0894bc;
     height: 39px;
     width: 39px;
     text-align: center;
-    color: #7f4954;
+    color: #0894bc;
     line-height: 35px;
 }
 
@@ -3548,7 +3564,7 @@ td {
 }
 
 .paging_simple_numbers {
-    display: none;
+    display: block;
 }
 
 #dataTable2_length {
@@ -3621,3 +3637,10 @@ td {
   background-color: rgba(255, 255, 255, 0.23)!important;
 }
 
+table.dataTable thead th, table.dataTable thead td {
+    padding: 10px 18px;
+    border-bottom: 1px solid #b1aeae !important;
+}
+table.dataTable.no-footer {
+    border-bottom: 1px solid #b1aeae !important;
+}

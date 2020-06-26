@@ -20,7 +20,7 @@ a {
   transition: .5s ease;
 }
 a:hover {
-  color: #179b77;
+  color: #0894bc !important;
 }
 
 .form {
@@ -1061,3 +1061,4 @@ body {
     display: flex;
     justify-content: center;
   }
+ 
